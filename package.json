@@ -1,0 +1,11 @@
+{
+  "name": "xpressio",
+  "version": "1.0.0",
+  "description": "Connect module for SOCKETIO and EXPRESSJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Conekt <ioconekt@gmail.com> (http://conekt.io/)",
+  "license": "ISC"
+}
