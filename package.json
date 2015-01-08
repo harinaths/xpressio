@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Conekt <ioconekt@gmail.com> (http://conekt.io/)",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.10.7",
     "express-session": "^1.10.0",
@@ -16,5 +16,20 @@
     "connect-redis": "^2.1.0",
     "ejs": "^1.0.0",
     "socket.io": "^1.2.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:harinaths/xpressio.git"
+  },
+  "keywords": [
+    "express",
+    "socket.io",
+    "session",
+    "store"
+  ],
+  "bugs": {
+    "url": "https://github.com/harinaths/xpressio/issues"
+  },
+  "homepage": "https://github.com/harinaths/xpressio"
 }
