@@ -1,6 +1,6 @@
 {
   "name": "xpressio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Connect module for SOCKETIO and EXPRESSJS",
   "main": "index.js",
   "scripts": {
