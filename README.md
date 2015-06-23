@@ -18,7 +18,7 @@ var config = {
 #HTTP Server#
 ```
 var XPressIO = require('xpressio');
-var xpress = new XPressIO(config.http).start();
+var xpress = new XPressIO(config).start();
 var app = xpress.app;
 var io = xpress.io;
 ```
