@@ -9,12 +9,13 @@
   "author": "Conekt <ioconekt@gmail.com> (http://conekt.io/)",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.10.7",
-    "express-session": "^1.10.0",
+    "body-parser": "^1.13.1",
+    "connect-redis": "^2.1.0",
     "cookie": "^0.1.2",
     "cookie-parser": "^1.3.3",
-    "connect-redis": "^2.1.0",
     "ejs": "^1.0.0",
+    "express": "^4.10.7",
+    "express-session": "^1.10.0",
     "socket.io": "^1.2.1"
   },
   "devDependencies": {},
