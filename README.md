@@ -2,7 +2,7 @@ XPRESSIO
 ========
 
 Simple Module to start with ExperssJS and SocketIO with session store.
-
+Redis server should be running on port 6379
 
 #Basic Config Arguments#
 ```
@@ -32,3 +32,4 @@ io.to('#ClientSessionId').emit('message', message)
 ```
 io.to('#RoomName').emit('RoomTopic', message)
 ```
+
